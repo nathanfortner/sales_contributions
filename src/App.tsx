@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import SalesDashboard from './components/SalesDashboard';
+import GMMDashboard from './components/GMMDashboard';
 
 function App() {
   return (
@@ -55,6 +56,13 @@ function App() {
       <section className="dashboard-section">
         <div className="container">
           <SalesDashboard />
+        </div>
+      </section>
+
+      {/* GMM Dashboard Section */}
+      <section className="dashboard-section">
+        <div className="container">
+          <GMMDashboard />
         </div>
       </section>
 

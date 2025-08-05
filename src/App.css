@@ -511,6 +511,99 @@ body {
   background: #fef2f2;
 }
 
+/* GMM Dashboard Styles */
+.gmm-dashboard {
+  padding: 40px 0;
+  background: white;
+}
+
+.chart-description {
+  text-align: center;
+  color: #6b7280;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.insights-section {
+  margin-bottom: 40px;
+}
+
+.insight-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.insight-card {
+  background: #f8fafc;
+  padding: 30px;
+  border-radius: 15px;
+  border-left: 4px solid #2563eb;
+}
+
+.insight-card.positive {
+  border-left-color: #10b981;
+}
+
+.insight-card.negative {
+  border-left-color: #ef4444;
+}
+
+.insight-card h4 {
+  font-size: 1.25rem;
+  margin-bottom: 15px;
+  color: #1f2937;
+}
+
+.insight-count {
+  font-size: 1.1rem;
+  color: #6b7280;
+  margin-bottom: 20px;
+}
+
+.insight-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.insight-card li {
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+  color: #374151;
+}
+
+.insight-card li:last-child {
+  border-bottom: none;
+}
+
+.gmm-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.gmm-table th {
+  background: #f8fafc;
+  padding: 15px;
+  text-align: left;
+  font-weight: 600;
+  color: #1f2937;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.gmm-table td {
+  padding: 15px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.gmm-table tr:hover {
+  background: #f8fafc;
+}
+
+/* Chart Tooltip Styles */
+.recharts-tooltip-wrapper {
+  z-index: 1000;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .nav-menu {

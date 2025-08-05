@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "GMM": "CC",
+      "sales_24": 39225920.11,
+      "pen_24": 14.09,
+      "sales_25": 43286693.33,
+      "pen_25": 16.38,
+      "abs_chg": 4060773.22,
+      "yoy_chng": 10.35,
+      "pen_chng": 2.28,
+      "contrib_yoy": 1.46
+    },
+    {
+      "GMM": "Leased",
+      "sales_24": 27208789.46,
+      "pen_24": 9.78,
+      "sales_25": 29276188.73,
+      "pen_25": 11.08,
+      "abs_chg": 2067399.27,
+      "yoy_chng": 7.60,
+      "pen_chng": 1.30,
+      "contrib_yoy": 0.74
+    },
+    {
+      "GMM": "Backstage",
+      "sales_24": 90064.00,
+      "pen_24": 0.03,
+      "sales_25": 15429.12,
+      "pen_25": 0.01,
+      "abs_chg": -74634.88,
+      "yoy_chng": -82.87,
+      "pen_chng": -0.03,
+      "contrib_yoy": -0.03
+    },
+    {
+      "GMM": "Misc",
+      "sales_24": 619380.28,
+      "pen_24": 0.22,
+      "sales_25": 476724.67,
+      "pen_25": 0.18,
+      "abs_chg": -142655.61,
+      "yoy_chng": -23.03,
+      "pen_chng": -0.04,
+      "contrib_yoy": -0.05
+    },
+    {
+      "GMM": "Home",
+      "sales_24": 38980130.52,
+      "pen_24": 14.01,
+      "sales_25": 37498206.07,
+      "pen_25": 14.19,
+      "abs_chg": -1481924.45,
+      "yoy_chng": -3.80,
+      "pen_chng": 0.18,
+      "contrib_yoy": -0.53
+    },
+    {
+      "GMM": "Mens_Kids",
+      "sales_24": 54323811.54,
+      "pen_24": 19.52,
+      "sales_25": 52053743.94,
+      "pen_25": 19.69,
+      "abs_chg": -2270067.60,
+      "yoy_chng": -4.18,
+      "pen_chng": 0.17,
+      "contrib_yoy": -0.82
+    },
+    {
+      "GMM": "RTW",
+      "sales_24": 55959039.40,
+      "pen_24": 20.11,
+      "sales_25": 53105270.34,
+      "pen_25": 20.09,
+      "abs_chg": -2853769.06,
+      "yoy_chng": -5.10,
+      "pen_chng": -0.02,
+      "contrib_yoy": -1.03
+    },
+    {
+      "GMM": "Beauty",
+      "sales_24": 61918791.45,
+      "pen_24": 22.25,
+      "sales_25": 48628261.90,
+      "pen_25": 18.40,
+      "abs_chg": -13290529.55,
+      "yoy_chng": -21.46,
+      "pen_chng": -3.85,
+      "contrib_yoy": -4.78
+    },
+    {
+      "GMM": "Total",
+      "sales_24": 278325926.76,
+      "pen_24": 100.00,
+      "sales_25": 264340518.10,
+      "pen_25": 94.98,
+      "abs_chg": -13985408.66,
+      "yoy_chng": -5.02,
+      "pen_chng": -5.02,
+      "contrib_yoy": -5.02
+    }
+  ]
+} 
